@@ -1,2 +1,4 @@
-# Stereo-Calibration and SGBM
-calibration of a binocular camera system and compute disparity by SGBM using OpenCV
+# SGBM by OpenCV
+computing disparity by SGBM
+
+下载下来运行main.py即可，所需依赖包为OpenCV
